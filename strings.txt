@@ -1,0 +1,7 @@
+# String file for PlayFLAC plugin
+
+PLUGIN_PLAYFLAC
+	EN	Play FLAC
+
+PLUGIN_PLAYFLAC_DESC
+	EN	Keeps different releases of the same album apart using the Discogs release id, with scanner-safe registration
